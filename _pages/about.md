@@ -1,6 +1,7 @@
 ---
 title: About BETA
 modified: 2018-02-09T23:00:00.000Z
+permalink: /about/
 excerpt: About
 header:
   image: /assets/images/beta-assembly-2015.jpg
@@ -9,21 +10,21 @@ header:
 
 ## Our Association
 
-BETA is a politically independent and non-profit association founded in Germany in 2008.  Our name stands for Bringing Europeans Together Association because this is our mission: to strengthen the European society by encouraging democratic processes and consciousness about the plurality of European identities, both on national and international level. 
+BETA is a politically independent and non-profit association founded in Germany in 2008.  Our name stands for Bringing Europeans Together Association because this is our mission: to strengthen the European society by encouraging democratic processes and consciousness about the plurality of European identities, both on national and international level.
 
 The expression of our goal is to actively support such political simulations as the Model European Union (MEU), events which allow young people to engage in politics, discovering the founding principles behind Europe through a first hand experience of the democratic process.
 
-Starting from nine members, BETA has now grown to more than 500 members in 2017, involving more than 1500 youth of 33 nationalities and supporting over 20 events worldwide. 
+Starting from nine members, BETA has now grown to more than 500 members in 2017, involving more than 1500 youth of 33 nationalities and supporting over 20 events worldwide.
 
-BETA is the growing managerial infrastructure behind MEU events driven by the maximum professionalism of its members to promote learning, supporting and inspiring young European generations, in the respect of the diversities and under the sign of tolerance and inclusivity. 
+BETA is the growing managerial infrastructure behind MEU events driven by the maximum professionalism of its members to promote learning, supporting and inspiring young European generations, in the respect of the diversities and under the sign of tolerance and inclusivity.
 
 ## Our Values
 
-What drives BETA is not a certain political ideology but shared values which unify our team and our actions. 
+What drives BETA is not a certain political ideology but shared values which unify our team and our actions.
 
 ### Learning
 
-We believe in the value of learning, especially through practice. Both through the management of the association or experiencing role-play in occasion of our political simulations, we allow to our members to experience in first person concepts which would otherwise be just printed on pages of books. Informal learning which allow to gain experience and develop soft skills. 
+We believe in the value of learning, especially through practice. Both through the management of the association or experiencing role-play in occasion of our political simulations, we allow to our members to experience in first person concepts which would otherwise be just printed on pages of books. Informal learning which allow to gain experience and develop soft skills.
 
 ### Supporting
 
@@ -49,7 +50,7 @@ We want our activities to be exciting and motivating, and our members to be pass
 
 ## Our Mission
 
-Strengthen the European society by encouraging democratic processes and consciousness about the plurality of European identities, both on national and international level. 
+Strengthen the European society by encouraging democratic processes and consciousness about the plurality of European identities, both on national and international level.
 
 ## Our Goals
 

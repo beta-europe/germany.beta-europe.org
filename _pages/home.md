@@ -10,7 +10,7 @@ header:
   cta_label: "Join Our Network"
   cta_url: "http://forum.beta-europe.org"
   caption: "Photo credit: [**MEUS 2015**](http://www.meu-strasbourg.org)"
-excerpt: "Bringing Europeans Together Association e.V. (BETA) is a politically independent and non-profit association to support the organisation of European politics simulations."
+excerpt: "Bringing Europeans Together Association Deutschland e.V. (BETA Germany) is a politically independent and non-profit association to support the organisation of European politics simulations."
 intro_01:
   - title: Our Association
     image_path: /assets/images/BETA-GA_2015.jpg
@@ -38,7 +38,7 @@ intro_03:
     excerpt:
     |
       To pursue these goals, BETA organises simulations of the European legislative procedure called “Model European Union (MEU)” and supports other associations with the organisation of such conferences. Over the years, BETA has acquired a large and consistently increasing network of partner organisations that organise MEU conferences in various countries.
-    url: "/calendar/"
+    url: "https://www.beta-europe.org/calendar/"
     btn_label: "Conference Calendar"
     btn_class: "btn--primary"
 

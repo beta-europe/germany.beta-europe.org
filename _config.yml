@@ -10,13 +10,13 @@ minimal_mistakes_skin : "beta" # "default", "air", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en"
-title                    : "BETA Greece"
+title                    : "BETA Germany"
 title_separator          : "-"
-name                     : "Bringing Europeans Together Association Greece"
+name                     : "Bringing Europeans Together Association Germany"
 description              : "EU Politics Simulations"
 url                      : "https://greece.beta-europe.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "beta-europe/greece.beta-europe.org"
+repository               : "beta-europe/germany.beta-europe.org"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -52,7 +52,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 cms:
   has_conference         : false
-  
+
 # Related to Forum API
 forum_api: https://forum.beta-europe.org
 
@@ -64,7 +64,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "BETA_Europe"
+  username               : "MEUMainz"
 facebook:
   username               :
   app_id                 :
@@ -86,19 +86,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "BETA Greece"
+  name             : "BETA Germany"
   avatar           :  # path of avatar image, e.g. "/assets/images/beta-logo-180-transparent.png"
-  bio              : "Bringing Europeans Together Association Greece"
-  location         :
-  email            : contact@greece.beta-europe.org
+  bio              : "Bringing Europeans Together Association Germany"
+  location         : "Mainz, Germany"
+  email            : contact@germany.beta-europe.org
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "BringingEuropeansTogetherAssociation"
+  facebook         : "meumainz"
   foursquare       :
-  github           : "orgs/beta-europe/teams/beta-greece"
+  github           : "orgs/beta-europe/teams/beta-germany"
   gitlab           :
   google_plus      :
   keybase          :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "BETA_Europe"
+  twitter          : "MEUMainz"
   vine             :
   weibo            :
   xing             :
@@ -242,7 +242,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-    
+
 # Collections
 collections:
   conferences:
