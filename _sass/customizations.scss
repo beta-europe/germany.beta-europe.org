@@ -1,0 +1,14 @@
+/* example for logo positioning
+
+.masthead a.site-title {
+  .site-title-logo {
+    img {
+      position: relative;
+      top: -8px;      
+      @include breakpoint($x-large) {
+        left: -50px;
+      }
+    }
+  }
+}
+*/
