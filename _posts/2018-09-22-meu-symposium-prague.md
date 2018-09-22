@@ -11,6 +11,7 @@ published: true
 edit: false
 header:
   image: ''
+  teaser: /assets/images/beta-logo-large.png
 ---
 Hello everyone,
 
