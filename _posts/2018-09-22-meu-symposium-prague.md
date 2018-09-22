@@ -1,6 +1,6 @@
 ---
 title: MEU Symposium Prague
-excerpt: Update MEU Symposium in Prague
+excerpt: Update from MEU Symposium in Prague
 tags:
   - MEUSymposium
 date: '2018-09-22 03:17:20'
