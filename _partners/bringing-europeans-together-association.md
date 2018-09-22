@@ -1,6 +1,6 @@
 ---
 slug: BETA Europe
-title: Bringing Europeans Together Association Europe
+title: Bringing Europeans Together Association
 website: 'http://www.beta-europe.org/'
 twitter: BETA_Europe
 mail: contact@beta-europe.org
