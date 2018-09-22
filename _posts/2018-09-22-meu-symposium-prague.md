@@ -10,7 +10,7 @@ share: true
 published: true
 edit: false
 header:
-  image: /assets/images/beta-logo-200-transparent.png
+  image: ''
 ---
 Hello everyone,
 
