@@ -1,28 +1,18 @@
-# main links
 main:
-  - title: About
-    url: /about/
-
-  - title: Contact
-    url: /contact/
-
   - title: News
     url: /news/
-
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
   - title: Forum
-    url: https://forum.beta-europe.org
-
+    url: 'https://forum.beta-europe.org'
   - title: Team
     url: /team/
-
   - title: Partners
     url: /partner/
-
-  # - title: Ultimate Conference Guide
-  #   url: /guide/
-
 teams:
-  - title: BETA Teams
-    children:
+  - children:
       - title: Management Board
         url: /team/board/
+    title: BETA Teams
