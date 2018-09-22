@@ -2,7 +2,7 @@
 title: MEU Symposium Prague
 excerpt: Update from MEU Symposium in Prague
 tags:
-  - MEUSymposium
+  - MEUSymposium18
 date: '2018-09-22 03:17:20'
 toc: false
 comments: true
