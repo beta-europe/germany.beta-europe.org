@@ -10,7 +10,7 @@ share: true
 published: true
 edit: false
 header:
-  image: ''
+  image: /assets/images/beta-logo-large.png
   teaser: /assets/images/beta-logo-large.png
 ---
 Hello everyone,
